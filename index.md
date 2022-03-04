@@ -1,5 +1,15 @@
 layout: page
-title: "PAGE TITLE"
+title: "ProbNum 2022"
 permalink: /index/
 
-# Heading 1
+# Welcome to the 2022 Workshop on Probabilistic Numerics
+
+# Location
+
+# Schedule
+
+## Monday 28 March 2022
+
+## Tuesday 29 March 2022
+
+# Participants
