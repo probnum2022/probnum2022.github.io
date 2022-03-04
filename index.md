@@ -17,3 +17,8 @@ St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, U
 ## Tuesday 29 March 2022
 
 # Participants
+
+* Toni Karvonen (University of Helsinki)
+* Chris Oates (Newcastle University)
+* Tim Sullivan (University of Warwick)
+
