@@ -23,14 +23,14 @@ Draft schedule of activities, subject to alteration
 
 # Participants
 
-* Nathanael Bosch (Universität Tübingen, DE)
+* [Nathanael Bosch](https://scholar.google.com/citations?user=2vejDygAAAAJ) (Universität Tübingen, DE)
 * [François-Xavier Briol](https://fxbriol.github.io) (University College London, UK)
 * [Peter Challenor](https://emps.exeter.ac.uk/mathematics/staff/pgc202) (University of Exeter, UK)
 * [Jon Cockayne](http://joncockayne.com) (University of Southampton, UK)
-* Matthew Fisher
+* [Matthew Fisher](https://www.ncl.ac.uk/bigdata/people/people/fishermatthew.html) (Newcastle University)
 * [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) (Universität Tübingen, DE)
 * [Toni Karvonen](https://tskarvone.github.io) (University of Helsinki, FI)
-* Nicholas Krämer (Universität Tübingen, DE)
+* [Nicholas Krämer](https://pnkraemer.github.io/sites/contact.html) (Universität Tübingen, DE)
 * [Han Cheng Lie](https://sites.google.com/site/hanchenglie) (Universität Potsdam, DE)
 * [Maren Mahsereci](https://mmahsereci.github.io) (Universität Tübingen, DE)
 * [Takuo Matsubara](https://sites.google.com/view/takuomatsubara/home) (Newcastle University, UK and Alan Turing Institute, UK)
