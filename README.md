@@ -1,4 +1,4 @@
-The 2022 Workshop on Probabilistic Numerics **ProbNum 2022** will take place in London on 28 and 29 March 2022.  The workshop has been generously supported by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and is organised by Chris Oates (Newcastle University) and Tim Sullivan (University of Warwick).
+The 2022 Workshop on Probabilistic Numerics **ProbNum 2022** will take place in London on 28 and 29 March 2022.  The workshop has been generously supported by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and is organised by [Chris Oates](https://oates.work) (Newcastle University) and [Tim Sullivan](https://warwick.ac.uk/tjsullivan) (University of Warwick).
 
 # Location
 
@@ -18,9 +18,14 @@ St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, U
 
 # Participants
 
+* Nathanael Bosch (Universität Tübingen, DE)
+* François-Xavier Briol (University College London, UK)
+* [Peter Challenor](https://emps.exeter.ac.uk/mathematics/staff/pgc202) (University of Exeter, UK)
 * Jon Cockayne (University of Southampton, UK)
 * Philipp Hennig (Universität Tübingen, DE)
 * Toni Karvonen (University of Helsinki, FI)
 * Han Cheng Lie (Universität Potsdam, DE)
-* Chris Oates (Newcastle University, UK)
-* Tim Sullivan (University of Warwick, UK)
+* [Chris Oates](https://oates.work) (Newcastle University, UK)
+* Kamran Pentland (University of Warwick, UK)
+* [Tim Sullivan](https://warwick.ac.uk/tjsullivan) (University of Warwick, UK)
+* Onur Teymur (University of Kent, UK)
