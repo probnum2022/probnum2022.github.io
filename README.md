@@ -6,6 +6,8 @@ St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, U
 
 # Schedule
 
+Draft schedule of activities, subject to alteration
+
 | | Monday 28 March | Tuesday 29 March |
 | --- | --- | --- |
 | 09:00-10:00 | Research Talks | Research Talks |
@@ -15,6 +17,7 @@ St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, U
 | 13:30-14:30 | Research Talks | Research Talks |
 | 14:30-14:45 | Refreshment Break | Refreshment Break |
 | 14:45-17:00 | Collaborative Research | Collaborative Research |
+| Evening | Workshop Dinner | |
 
 # Participants
 
