@@ -25,7 +25,9 @@ St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, U
 * Matthew Fisher
 * Philipp Hennig (Universität Tübingen, DE)
 * Toni Karvonen (University of Helsinki, FI)
+* Nicholas Krämer (Universität Tübingen, DE)
 * Han Cheng Lie (Universität Potsdam, DE)
+* Maren Mahsereci (Universität Tübingen, DE)
 * Tadashi Matsumoto (University of Warwick, UK)
 * [Chris Oates](https://oates.work) (Newcastle University, UK)
 * Kamran Pentland (University of Warwick, UK)
