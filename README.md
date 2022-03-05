@@ -6,9 +6,15 @@ St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, U
 
 # Schedule
 
-## Monday 28 March 2022
-
-## Tuesday 29 March 2022
+| | Monday 28 March | Tuesday 29 March |
+| --- | --- | --- |
+| 09:00-10:00 | Research Talks | Research Talks |
+| 10:00-10:15 | Refreshment Break | Refreshment Break |
+| 10:15-12:30 | Collaborative Research | Collaborative Research |
+| 12:30-13:30 | Lunch | Lunch |
+| 13:30-14:30 | Research Talks | Research Talks |
+| 14:30-14:45 | Refreshment Break | Refreshment Break |
+| 14:45-17:00 | Collaborative Research | Collaborative Research |
 
 # Participants
 
