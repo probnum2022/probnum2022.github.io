@@ -26,7 +26,7 @@ Draft schedule of activities, subject to alteration
 * Nathanael Bosch (Universität Tübingen, DE)
 * [François-Xavier Briol](https://fxbriol.github.io) (University College London, UK)
 * [Peter Challenor](https://emps.exeter.ac.uk/mathematics/staff/pgc202) (University of Exeter, UK)
-* Jon Cockayne (University of Southampton, UK)
+* [Jon Cockayne](http://joncockayne.com) (University of Southampton, UK)
 * Matthew Fisher
 * [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) (Universität Tübingen, DE)
 * [Toni Karvonen](https://tskarvone.github.io) (University of Helsinki, FI)
