@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+The 2022 Workshop on Probabilistic Numerics **ProbNum 2022** will take place in London on 28 and 29 March 2022.  The workshop has been generously supported by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and is organised by Chris Oates (Newcastle University) and Tim Sullivan (University of Warwick).
 
-You can use the [editor on GitHub](https://github.com/probnum2022/probnum2022.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Location
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, United Kingdom
 
-### Markdown
+# Schedule
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Monday 28 March 2022
 
-```markdown
-Syntax highlighted code block
+## Tuesday 29 March 2022
 
-# Header 1
-## Header 2
-### Header 3
+# Participants
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/probnum2022/probnum2022.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Jon Cockayne (University of Southampton, UK)
+* Philipp Hennig (Universität Tübingen, DE)
+* Toni Karvonen (University of Helsinki, FI)
+* Han Cheng Lie (Universität Potsdam, DE)
+* Chris Oates (Newcastle University, UK)
+* Tim Sullivan (University of Warwick, UK)
