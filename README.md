@@ -35,7 +35,7 @@ Draft schedule of activities, subject to alteration
 * [Han Cheng Lie](https://sites.google.com/site/hanchenglie) (Universität Potsdam, DE)
 * [Maren Mahsereci](https://mmahsereci.github.io) (Universität Tübingen, DE)
 * [Takuo Matsubara](https://sites.google.com/view/takuomatsubara/home) (Newcastle University, UK and Alan Turing Institute, UK)
-* Tadashi Matsumoto (University of Warwick, UK)
+* [Tadashi Matsumoto](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort2/tadashimatsumoto/) (University of Warwick, UK)
 * [Masha Naslidnyk](https://mashanaslidnyk.github.io) (University College London, UK)
 * [Chris Oates](https://oates.work) (Newcastle University, UK and Alan Turing Institute, UK)
 * [Kamran Pentland](https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/pentland/) (University of Warwick, UK)
