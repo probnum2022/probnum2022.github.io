@@ -1,4 +1,4 @@
-The 2022 Workshop on Probabilistic Numerics **ProbNum 2022** will take place in London on 28 and 29 March 2022.  The workshop has been generously supported by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and is organised by [Chris Oates](https://oates.work) (Newcastle University and Alan Turing Institute, UK) and [Tim Sullivan](https://warwick.ac.uk/tjsullivan) (University of Warwick and Alan Turing Institute, UK).
+The 2022 Workshop on [Probabilistic Numerics](https://prob-num.org/) **ProbNum 2022** will take place in London on 28 and 29 March 2022.  The workshop has been generously supported by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and is organised by [Chris Oates](https://oates.work) (Newcastle University and Alan Turing Institute, UK) and [Tim Sullivan](https://warwick.ac.uk/tjsullivan) (University of Warwick and Alan Turing Institute, UK).
 
 # Location
 
@@ -12,13 +12,15 @@ Draft schedule of activities, subject to alteration
 
 | | Monday 28 March | Tuesday 29 March |
 | --- | --- | --- |
-| 09:00-10:00 | Research Talks | Research Talks |
-| 10:00-10:15 | Refreshment Break | Refreshment Break |
-| 10:15-12:30 | Collaborative Research | Collaborative Research |
+| 09:00-09:10 | Welcome | |
+| 09:10-10:10 | Research Talks | Research Talks |
+| 10:10-10:30 | Refreshment Break | Refreshment Break |
+| 10:30-12:30 | Collaborative Research | Collaborative Research |
 | 12:30-13:30 | Lunch | Lunch |
 | 13:30-14:30 | Research Talks | Research Talks |
 | 14:30-14:45 | Refreshment Break | Refreshment Break |
 | 14:45-17:00 | Collaborative Research | Collaborative Research |
+| 17:00 | | Closing |
 | Evening | Workshop Dinner | |
 
 # Participants
