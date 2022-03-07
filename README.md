@@ -13,11 +13,13 @@ Draft schedule of activities, subject to alteration
 | | Monday 28 March | Tuesday 29 March |
 | --- | --- | --- |
 | 09:00–09:10 | Welcome | |
-| 09:10–10:10 | Research Talks | Research Talks |
+| 09:10–09:50 | Research Talk 1.1 | Research Talk 2.1 |
+| 09:50–10:10 | Research Talk 1.2 | Research Talk 2.2 |
 | 10:10–10:30 | Refreshment Break | Refreshment Break |
 | 10:30–12:30 | Collaborative Research | Collaborative Research |
 | 12:30–13:30 | Lunch | Lunch |
-| 13:30–14:30 | Research Talks | Research Talks |
+| 13:30–14:10 | Research Talk 1.3 | Research Talk 2.3 |
+| 14:10–14:30 | Research Talk 1.4 | Research Talk 2.4 |
 | 14:30–14:45 | Refreshment Break | Refreshment Break |
 | 14:45–17:00 | Collaborative Research | Collaborative Research |
 | 17:00 | | Closing |
