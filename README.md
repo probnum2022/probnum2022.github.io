@@ -12,14 +12,14 @@ Draft schedule of activities, subject to alteration
 
 | | Monday 28 March | Tuesday 29 March |
 | --- | --- | --- |
-| 09:00-09:10 | Welcome | |
-| 09:10-10:10 | Research Talks | Research Talks |
-| 10:10-10:30 | Refreshment Break | Refreshment Break |
-| 10:30-12:30 | Collaborative Research | Collaborative Research |
-| 12:30-13:30 | Lunch | Lunch |
-| 13:30-14:30 | Research Talks | Research Talks |
-| 14:30-14:45 | Refreshment Break | Refreshment Break |
-| 14:45-17:00 | Collaborative Research | Collaborative Research |
+| 09:00–09:10 | Welcome | |
+| 09:10–10:10 | Research Talks | Research Talks |
+| 10:10–10:30 | Refreshment Break | Refreshment Break |
+| 10:30–12:30 | Collaborative Research | Collaborative Research |
+| 12:30–13:30 | Lunch | Lunch |
+| 13:30–14:30 | Research Talks | Research Talks |
+| 14:30–14:45 | Refreshment Break | Refreshment Break |
+| 14:45–17:00 | Collaborative Research | Collaborative Research |
 | 17:00 | | Closing |
 | Evening | Workshop Dinner | |
 
@@ -43,6 +43,6 @@ Draft schedule of activities, subject to alteration
 * [Kamran Pentland](https://warwick.ac.uk/fac/sci/mathsys/people/students/2019intake/pentland/) (University of Warwick, UK)
 * [Marina Riabiz](https://www.kcl.ac.uk/people/marina-riabiz) (King's College London, UK)
 * Marvin Pförtner (Universität Tübingen, DE)
-* Jonathan Schmidt (Universität Tübingen)
+* Jonathan Schmidt (Universität Tübingen, DE)
 * [Tim Sullivan](https://warwick.ac.uk/tjsullivan) (University of Warwick, UK and Alan Turing Institute, UK)
-* [Filip Tronarp](https://scholar.google.fi/citations?user=q0rtB0EAAAAJ) (Universität Tübingen)
+* [Filip Tronarp](https://scholar.google.fi/citations?user=q0rtB0EAAAAJ) (Universität Tübingen, DE)
