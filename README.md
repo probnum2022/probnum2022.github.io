@@ -2,9 +2,7 @@ The 2022 Workshop on Probabilistic Numerics **ProbNum 2022** will take place in 
 
 [Probabilistic Numerics](https://en.wikipedia.org/wiki/Probabilistic_numerics) is a scientific field at the intersection of statistics, machine learning and applied mathematics, where tasks in numerical analysis including finding numerical solutions for integration, linear algebra, optimisation and differential equations are seen as problems of statistical, probabilistic, or Bayesian inference.  ProbNum 2022 continues a [sequence of research gatherings](https://www.probabilistic-numerics.org/meetings/) on probabilistic numerics over the last ten years.
 
-<span align="center">
-[Location](#Location) | [Schedule](#Schedule) | [Participants](#Participants)
-</span>
+<span align="center">[Location](#Location) | [Schedule](#Schedule) | [Participants](#Participants)</span>
   
 # Location
 
