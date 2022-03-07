@@ -4,7 +4,7 @@ The 2022 Workshop on [Probabilistic Numerics](https://prob-num.org/) **ProbNum 2
 
 St. Pancras Meetings & Events, St Chad's St, King’s Cross, London, WC1H 8AG, United Kingdom
 * [Google Maps](https://www.google.co.uk/maps/place/St.+Pancras+Meeting+Rooms/@51.5292713,-0.1255907,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b3960301903:0x58f83bc0643524c7!8m2!3d51.529268!4d-0.123402)
-* Nearest London Underground Station:  King's Cross St Pancras (150m)
+* Nearest National Rail and London Underground stations:  King's Cross St Pancras (150m), Euston (800m), Russell Square (950m)
 
 # Schedule
 
