@@ -14,7 +14,7 @@ The location for the workshop is
 * Nearest National Rail and London Underground stations:  King's Cross St Pancras (150m), Euston (800m), Russell Square (950m)
 
 The workshop dinner will be held at
-* The Pig and Butcher, 80 Liverpool Road, London, N1 0QD
+* [The Pig and Butcher](https://thepigandbutcher.co.uk/private-dining/), 80 Liverpool Road, London, N1 0QD
 * [Google Maps](https://www.google.co.uk/maps/place/The+Pig+and+Butcher/@51.5382883,-0.1114087,16z/data=!4m5!3m4!1s0x48761b6812f60359:0x501729b45945c149!8m2!3d51.5373962!4d-0.1067286)
 * Nearest London Underground station:  Angel (800m), Highbury & Islington (950m), King's Cross St Pancras (1700m)
 
@@ -35,7 +35,7 @@ Draft schedule of activities, subject to alteration
 | 14:30–14:45 | Refreshment Break | Refreshment Break |
 | 14:45–17:00 | Collaborative Research | Collaborative Research |
 | 17:00 | | Closing |
-| Evening | Workshop Dinner | |
+| Evening | Workshop Dinner at [The Pig and Butcher](https://thepigandbutcher.co.uk/private-dining/) | |
 
 # Participants
 
