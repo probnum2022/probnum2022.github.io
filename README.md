@@ -34,8 +34,8 @@ Draft schedule of activities, subject to alteration
 | 14:10–14:30 | Research Talk 1.4 | Research Talk 2.4 |
 | 14:30–14:45 | Refreshment Break | Refreshment Break |
 | 14:45–17:00 | Collaborative Research | Collaborative Research |
-| 17:00 | | Closing |
-| Evening | Workshop Dinner at [The Pig and Butcher](https://thepigandbutcher.co.uk/private-dining/) | |
+| 17:00 | Free | Closing |
+| 18:30 | Workshop Dinner at [The Pig and Butcher](https://thepigandbutcher.co.uk/private-dining/) | |
 
 # Participants
 
