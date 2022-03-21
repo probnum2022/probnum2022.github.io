@@ -4,6 +4,9 @@
 
 # Titles and Abstracts of Talks
 
+* [Toni Karvonen](#karvonen) (University of Helsinki, FI)
+* [Kamran Pentland](#pentland) (University of Warwick, UK)
+
 <span id="karvonen"></span>
 ## Toni Karvonen (University of Helsinki, FI)
 
