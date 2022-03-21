@@ -1,6 +1,6 @@
 <img src="gp.png" style="width: 100%; border: none; padding: none;" alt="Prob Num 2022" />
 
-<p align="center"><a href="#location">Location</a> | <a href="#schedule">Schedule</a> | <a href="#participants">Participants</a></p>
+<p align="center"><a href="#location">Location</a> | <a href="#schedule">Schedule</a> | <a href="/participants">Participants</a></p>
   
 The 2022 Workshop on Probabilistic Approaches to Numerical Computation **(Prob Num 2022)** will take place in London on 28 and 29 March 2022.  The workshop has been generously supported by the [Heilbronn Institute for Mathematical Research](https://heilbronn.ac.uk) and is organised by [Chris Oates](https://oates.work) (Newcastle University and Alan Turing Institute, UK) and [Tim Sullivan](https://warwick.ac.uk/tjsullivan) (University of Warwick and Alan Turing Institute, UK).
 
