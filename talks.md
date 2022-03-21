@@ -5,7 +5,7 @@
 # Titles and Abstracts of Talks
 
 <span id="karvonen"></span>
-## Toni karvonen (University of Helsinki)
+## Toni Karvonen (University of Helsinki)
 
 *Why not to use the Gaussian kernel*
 
