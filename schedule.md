@@ -8,7 +8,7 @@ Draft schedule of activities, subject to alteration
 
 | | Monday 28 March | Tuesday 29 March |
 | --- | --- | --- |
-| 09:00–09:10 | Welcome | |
+| 09:00–09:10 | Welcome: Chris Oates and Tim Sullivan | |
 | 09:10–09:50 | Research Talk: Maren Mahsereci | Research Talk: Peter Challenor |
 | 09:50–10:10 | Research Talk: Masha Naslidnyk | Research Talk: <a href="/talks#pentland">Kamran Pentland</a> |
 | 10:10–10:30 | Refreshment Break | Refreshment Break |
