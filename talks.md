@@ -4,6 +4,13 @@
 
 # Titles and Abstracts of Talks
 
+<span id="karvonen"></span>
+## Toni karvonen (University of Helsinki)
+
+*Why not to use the Gaussian kernel*
+
+In Gaussian process modelling it is common to use the Gaussian (or squared exponential) kernel as the default covariance kernel. In this talk I use numerical ill-conditioning, analyticity and super-exponential rates of convergence in the RKHS to argue that the Gaussian kernel is not robust and should not be used in Bayesian quadrature and other the interpolatory settings where the data are assumed noiseless.
+
 <span id="pentland"></span>
 ## Kamran Pentland (University of Warwick)
 
