@@ -6,18 +6,6 @@ The 2022 Workshop on Probabilistic Approaches to Numerical Computation **(Prob N
 
 [Probabilistic Numerics](https://en.wikipedia.org/wiki/Probabilistic_numerics) is a scientific field at the intersection of statistics, machine learning and applied mathematics, where tasks in numerical analysis including finding numerical solutions for integration, linear algebra, optimisation and differential equations are seen as problems of statistical, probabilistic, or Bayesian inference.  ProbNum 2022 continues a [sequence of research gatherings](https://www.probabilistic-numerics.org/meetings/) on probabilistic numerics over the last ten years.
 
-# Location
-
-The location for the workshop is
-* [St Pancras Meeting Rooms](https://www.stpancrasmeetingrooms.co.uk), St Chad's St, King’s Cross, London, WC1H&nbsp;8AG, United Kingdom
-* [Google Maps](https://www.google.co.uk/maps/place/St.+Pancras+Meeting+Rooms/@51.5292713,-0.1255907,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b3960301903:0x58f83bc0643524c7!8m2!3d51.529268!4d-0.123402)
-* Nearest National Rail and London Underground stations:  King's Cross St Pancras (150m), Euston (800m), Russell Square (950m)
-
-The workshop dinner will be held at 18:30 on the evening of Monday 28 March at
-* [The Pig and Butcher](https://thepigandbutcher.co.uk/private-dining/), 80 Liverpool Road, London, N1&nbsp;0QD, United Kingdom
-* [Google Maps](https://www.google.co.uk/maps/place/The+Pig+and+Butcher/@51.5382883,-0.1114087,16z/data=!4m5!3m4!1s0x48761b6812f60359:0x501729b45945c149!8m2!3d51.5373962!4d-0.1067286)
-* Nearest London Underground stations:  Angel (800m), Highbury & Islington (950m), King's Cross St Pancras (1700m)
-
 # Schedule
 
 Draft schedule of activities, subject to alteration
