@@ -1,3 +1,7 @@
+<img src="gp.png" style="width: 100%; border: none; padding: none;" alt="Prob Num 2022" />
+
+<p align="center"><a href="/location">Location</a> | <a href="/schedule">Schedule</a> | <a href="/participants">Participants</a></p>
+
 # Titles and Abstracts of Talks
 
 <span id="pentland"></span>
