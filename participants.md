@@ -1,4 +1,4 @@
-<a href="/"><img src="gp.png" style="width: 100%; border: none; margin:none; padding: none;" alt="Prob Num 2022" /></a>
+<a href="/"><img src="gp.png" style="width: 100%; border: none; margin: -40px 0px 0px 0px; padding: none;" alt="Prob Num 2022" /></a>
 
 <p align="center"><a href="/location">Location</a> | <a href="/participants">Participants</a> | <a href="/schedule">Schedule</a> | <a href="/talks">Talks</a></p>
   
