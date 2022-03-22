@@ -9,6 +9,7 @@
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
 
+
 <span id="akyildiz"></span>
 ## Deniz Akyıldız
 **Alan Turing Institute, UK, and University of Cambridge, UK**
@@ -16,6 +17,7 @@
 *Probabilistic sequential matrix factorization*
 
 This talk introduces a probabilistic sequential matrix factorization method for factorizing time-varying and non-stationary datasets consisting of high-dimensional time-series. In particular, we consider nonlinear Gaussian state-space models where sequential approximate inference results in the factorization of a data matrix into a dictionary and time-varying coefficients with potentially nonlinear Markovian dependencies. The assumed Markovian structure on the coefficients enables us to encode temporal dependencies into a low-dimensional feature space. The proposed inference method is solely based on an approximate extended Kalman filtering scheme, which makes the resulting method particularly efficient. 
+
 
 <span id="hennig"></span>
 ## Philipp Hennig
@@ -27,6 +29,7 @@ Aiming to advertise killer applications for probabilistic numerics, I will highl
 
 Secondly, deep learning continues to pose formidable algorithmic challenges for its users. I will argue that probnum has the potential to contribute significantly here, because the relevant computations are inherently probabilistic. It used to be difficult to capitalise on this opportunity. But recently released software libraries now provide access to detailed statistics, providing a new playing field to the probnum community. 
 
+
 <span id="karvonen"></span>
 ## Toni Karvonen
 **University of Helsinki, FI**
@@ -34,6 +37,7 @@ Secondly, deep learning continues to pose formidable algorithmic challenges for 
 *Why not to use the Gaussian kernel*
 
 In Gaussian process modelling it is common to use the Gaussian (or squared exponential) kernel as the default covariance kernel. In this talk I use numerical ill-conditioning, analyticity and super-exponential rates of convergence in the RKHS to argue that the Gaussian kernel is not robust and should not be used in Bayesian quadrature and other the interpolatory settings where the data are assumed noiseless.
+
 
 <span id="pentland"></span>
 ## Kamran Pentland
