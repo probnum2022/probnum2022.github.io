@@ -9,7 +9,8 @@
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
 
 <span id="hennig"></span>
-## Philipp Hennig (Universität Tübingen, DE)
+## Philipp Hennig
+**Universität Tübingen, DE**
 
 *Backward and Inverse: Opportunities for Probnum in Machine Learning*
 
@@ -18,14 +19,16 @@ Aiming to advertise killer applications for probabilistic numerics, I will highl
 Secondly, deep learning continues to pose formidable algorithmic challenges for its users. I will argue that probnum has the potential to contribute significantly here, because the relevant computations are inherently probabilistic. It used to be difficult to capitalise on this opportunity. But recently released software libraries now provide access to detailed statistics, providing a new playing field to the probnum community. 
 
 <span id="karvonen"></span>
-## Toni Karvonen (University of Helsinki, FI)
+## Toni Karvonen
+**University of Helsinki, FI**
 
 *Why not to use the Gaussian kernel*
 
 In Gaussian process modelling it is common to use the Gaussian (or squared exponential) kernel as the default covariance kernel. In this talk I use numerical ill-conditioning, analyticity and super-exponential rates of convergence in the RKHS to argue that the Gaussian kernel is not robust and should not be used in Bayesian quadrature and other the interpolatory settings where the data are assumed noiseless.
 
 <span id="pentland"></span>
-## Kamran Pentland (University of Warwick, UK)
+## Kamran Pentland
+**University of Warwick, UK**
 
 *GParareal: a time-parallel ODE solver using Gaussian process emulation*
 
