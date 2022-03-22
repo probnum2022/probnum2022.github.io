@@ -15,7 +15,7 @@ Draft schedule of activities, subject to alteration
 | 10:30–12:30 | Collaborative Research | Collaborative Research |
 | 12:30–13:30 | Lunch | Lunch |
 | 13:30–14:10 | Research Talk: <a href="/talks#hennig">Philipp Hennig</a> | Research Talk: <a href="/talks#karvonen">Toni Karvonen</a> |
-| 14:10–14:30 | Research Talk: TBA | Research Talk: Han Cheng Lie |
+| 14:10–14:30 | Research Talk: <a href="/talks#akyildiz">Deniz Akyıldız</a> | Research Talk: Han Cheng Lie |
 | 14:30–14:45 | Refreshment Break | Refreshment Break |
 | 14:45–17:00 | Collaborative Research | Collaborative Research |
 | 17:00 | Free | Closing |
