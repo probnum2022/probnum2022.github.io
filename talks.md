@@ -4,9 +4,18 @@
 
 # Titles and Abstracts of Talks
 
+* [Deniz Akyıldız](#akyildiz) (Alan Turing Institute, UK, and University of Cambridge, UK)
 * [Philipp Hennig](#hennig) (Universität Tübingen, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
+
+<span id="akyildiz"></span>
+## Deniz Akyıldız
+**Alan Turing Institute, UK, and University of Cambridge, UK**
+
+*Probabilistic sequential matrix factorization*
+
+This talk introduces a probabilistic sequential matrix factorization method for factorizing time-varying and non-stationary datasets consisting of high-dimensional time-series. In particular, we consider nonlinear Gaussian state-space models where sequential approximate inference results in the factorization of a data matrix into a dictionary and time-varying coefficients with potentially nonlinear Markovian dependencies. The assumed Markovian structure on the coefficients enables us to encode temporal dependencies into a low-dimensional feature space. The proposed inference method is solely based on an approximate extended Kalman filtering scheme, which makes the resulting method particularly efficient. 
 
 <span id="hennig"></span>
 ## Philipp Hennig
