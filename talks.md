@@ -4,8 +4,18 @@
 
 # Titles and Abstracts of Talks
 
+* [Philipp Hennig](#hennig) (Universität Tübingen, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
+
+<span id="hennig"></span>
+## Philipp Hennig (Universität Tübingen, DE)
+
+*Backward and Inverse: Opportunities for Probnum in Machine Learning*
+
+Aiming to advertise killer applications for probabilistic numerics, I will highlight two separate areas: First, in inverse problems involving simulations, ODE filters have shown (occasionally drastic) efficiency gains over classical methods by leveraging uncertainty propagation through computation. 
+
+Secondly, deep learning continues to pose formidable algorithmic challenges for its users. I will argue that probnum has the potential to contribute significantly here, because the relevant computations are inherently probabilistic. It used to be difficult to capitalise on this opportunity. But recently released software libraries now provide access to detailed statistics, providing a new playing field to the probnum community. 
 
 <span id="karvonen"></span>
 ## Toni Karvonen (University of Helsinki, FI)
