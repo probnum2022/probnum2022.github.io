@@ -7,6 +7,7 @@
 * [Deniz Akyıldız](#akyildiz) (Alan Turing Institute, UK, and University of Cambridge, UK)
 * [Philipp Hennig](#hennig) (Universität Tübingen, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
+* [Han Cheng Lie](#lie) (Universität Potsdam, DE)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
 
 
@@ -37,6 +38,17 @@ Secondly, deep learning continues to pose formidable algorithmic challenges for 
 *Why not to use the Gaussian kernel*
 
 In Gaussian process modelling it is common to use the Gaussian (or squared exponential) kernel as the default covariance kernel. In this talk I use numerical ill-conditioning, analyticity and super-exponential rates of convergence in the RKHS to argue that the Gaussian kernel is not robust and should not be used in Bayesian quadrature and other the interpolatory settings where the data are assumed noiseless.
+
+
+<span id="lie"></span>
+## Han Cheng Lie
+**Universität Potsdam, DE**
+
+*Randomised time integration of operator differential equations*
+
+The paper of Conrad et al. (*Statistics and Computing*, 2017) played an important role in establishing the idea of putting probability measures on numerical solutions of differential equations on finite-dimensional Euclidean space. We revisit some ideas from this paper, for differential equations on Banach spaces of arbitrary and possibly infinite dimension, and for time integration methods on possibly nonuniform grids. First, we present an analytical example involving a heat equation on a bounded domain, in which one can 'read off' the effect of randomisation on the Bayesian posterior on the parameter space. Second, we show that, by using a different error decomposition, one can weaken the assumption of uniform local truncation error on the underlying deterministic time integration method. This significantly improves the applicability of randomised time integration methods. If time permits, we will discuss to what extent the bounds on the mean squared error of the randomised solutions presented by Conrad et al. extend to errors of higher integrability order.
+
+Joint work with Martin Stahn (U. Potsdam) and T. J. Sullivan (U. Warwick).
 
 
 <span id="pentland"></span>
