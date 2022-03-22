@@ -4,6 +4,7 @@
   
 # Participants
 
+* [Ömer Deniz Akyıldız](https://akyildiz.me) (Alan Turing Institute, UK, and University of Cambridge, UK)
 * [Nathanael Bosch](https://scholar.google.com/citations?user=2vejDygAAAAJ) (Universität Tübingen, DE)
 * [François-Xavier Briol](https://fxbriol.github.io) (University College London, UK)
 * [Peter Challenor](https://emps.exeter.ac.uk/mathematics/staff/pgc202) (University of Exeter, UK)
