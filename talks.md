@@ -5,7 +5,7 @@
 # Titles and Abstracts of Talks
 
 * [Deniz Akyıldız](#akyildiz) (Alan Turing Institute, UK, and University of Cambridge, UK)
-* [Philipp Hennig](#hennig) (Universität Tübingen, DE)
+* [Philipp Hennig](#hennig) (Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Han Cheng Lie](#lie) (Universität Potsdam, DE)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
