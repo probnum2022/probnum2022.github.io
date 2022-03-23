@@ -5,6 +5,7 @@
 # Titles and Abstracts of Talks
 
 * [Deniz Akyıldız](#akyildiz) (Alan Turing Institute, UK, and University of Cambridge, UK)
+* [Peter Challenor](#challenor) (University of Exeter, UK)
 * [Philipp Hennig](#hennig) (Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Han Cheng Lie](#lie) (Universität Potsdam, DE)
@@ -17,7 +18,16 @@
 
 *Probabilistic sequential matrix factorization*
 
-This talk introduces a probabilistic sequential matrix factorization method for factorizing time-varying and non-stationary datasets consisting of high-dimensional time-series. In particular, we consider nonlinear Gaussian state-space models where sequential approximate inference results in the factorization of a data matrix into a dictionary and time-varying coefficients with potentially nonlinear Markovian dependencies. The assumed Markovian structure on the coefficients enables us to encode temporal dependencies into a low-dimensional feature space. The proposed inference method is solely based on an approximate extended Kalman filtering scheme, which makes the resulting method particularly efficient. 
+This talk introduces a probabilistic sequential matrix factorization method for factorizing time-varying and non-stationary datasets consisting of high-dimensional time-series. In particular, we consider nonlinear Gaussian state-space models where sequential approximate inference results in the factorization of a data matrix into a dictionary and time-varying coefficients with potentially nonlinear Markovian dependencies. The assumed Markovian structure on the coefficients enables us to encode temporal dependencies into a low-dimensional feature space. The proposed inference method is solely based on an approximate extended Kalman filtering scheme, which makes the resulting method particularly efficient.
+
+
+<span id="challenor"></span>
+## Peter Challenor
+**University of Exeter, UK**
+
+*Inference for computer models*
+
+In parallel with data based modelling the use of ‘process’ based modelling has increased over recent years. This has been driven by the rise in computer power and numerical analysis techniques to allow the solution of such models. Applications abound from engineering through climate to healthcare. Although some of these models are fast to run, I will concentrate on those that are slow, meaning that any Monte Carlo based methods are implausible. To get around these problems we use surrogate models or emulators. Building such models is not trivial, involving issues in design and estimation. Once we have a validated emulator, we can address problems in inference. In particular, I will look at sensitivity and uncertainty analysis. The real inference problems occur when we want to use real world data to ‘calibrate’ the model by running it in inverse model. The problem here is the problem of model ‘discrepancy’. Because the model is a model it is never going to be the same as the real world and we need to take this into account. I’ll outline a couple of ways of doing this: the Kennedy and O’Hagan method and History Matching. Finally, I will point out some open research questions.
 
 
 <span id="hennig"></span>
