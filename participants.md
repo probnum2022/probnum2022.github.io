@@ -10,7 +10,7 @@
 * [Peter Challenor](https://emps.exeter.ac.uk/mathematics/staff/pgc202) (University of Exeter, UK)
 * [Jon Cockayne](http://joncockayne.com) (University of Southampton, UK)
 * [Matthew Fisher](https://www.ncl.ac.uk/bigdata/people/people/fishermatthew.html) (Newcastle University)
-* [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) (Universität Tübingen, DE)
+* [Philipp Hennig](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/personen/philipp-hennig/) (Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE)
 * [Motonobu Kanagawa](https://sites.google.com/site/motonobukanagawa/) (Eurecom, FR)
 * [Toni Karvonen](https://tskarvone.github.io) (University of Helsinki, FI)
 * [Nicholas Krämer](https://pnkraemer.github.io/sites/contact.html) (Universität Tübingen, DE)
