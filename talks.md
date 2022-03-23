@@ -22,7 +22,7 @@ This talk introduces a probabilistic sequential matrix factorization method for 
 
 <span id="hennig"></span>
 ## Philipp Hennig
-**Universität Tübingen, DE**
+**Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE**
 
 *Backward and Inverse: Opportunities for Probnum in Machine Learning*
 
