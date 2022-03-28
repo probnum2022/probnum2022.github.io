@@ -9,6 +9,7 @@
 * [Philipp Hennig](#hennig) (Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Han Cheng Lie](#lie) (Universität Potsdam, DE)
+* [Masha Naslidnyk](#naslidnyk) (University College London, UK)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
 
 
@@ -59,6 +60,14 @@ In Gaussian process modelling it is common to use the Gaussian (or squared expon
 The paper of Conrad et al. (*Statistics and Computing*, 2017) played an important role in establishing the idea of putting probability measures on numerical solutions of differential equations on finite-dimensional Euclidean space. We revisit some ideas from this paper, for differential equations on Banach spaces of arbitrary and possibly infinite dimension, and for time integration methods on possibly nonuniform grids. First, we present an analytical example involving a heat equation on a bounded domain, in which one can 'read off' the effect of randomisation on the Bayesian posterior on the parameter space. Second, we show that, by using a different error decomposition, one can weaken the assumption of uniform local truncation error on the underlying deterministic time integration method. This significantly improves the applicability of randomised time integration methods. If time permits, we will discuss to what extent the bounds on the mean squared error of the randomised solutions presented by Conrad et al. extend to errors of higher integrability order.
 
 Joint work with Martin Stahn (U. Potsdam) and T. J. Sullivan (U. Warwick).
+
+<span id="naslidnyk"></span>
+## Masha Naslidnyk
+**University College London, UK**
+
+*On robust GP regression*
+
+Kernel selection for Gaussian process regression has a defining effect on the quality of the model. Maximum likelihood estimation, the most popular approach for selecting a kernel from a parametrised family, has been shown empirically to perform worse under model misspecification compared to cross-validation; theoretical analysis has been missing. In this work, we provide theoretical and empirical evidence that, for noiseless one-dimensional Gaussian process regression with a Brownian motion kernel, cross-validation estimator is more robust to undersmoothing (meaning an insufficiently smooth kernel) than maximum likelihood estimator. Finally, I'll discuss a recent research direction on using maximum mean discrepancy for general parameter selection in conditional models.
 
 
 <span id="pentland"></span>
