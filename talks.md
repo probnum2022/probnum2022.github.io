@@ -17,7 +17,7 @@
 ## Deniz Akyıldız
 **Alan Turing Institute, UK, and University of Cambridge, UK**
 
-*Probabilistic sequential matrix factorization*
+*Probabilistic sequential matrix factorization* <a href="/pdf/akyildiz.pdf">Slides</a>
 
 This talk introduces a probabilistic sequential matrix factorization method for factorizing time-varying and non-stationary datasets consisting of high-dimensional time-series. In particular, we consider nonlinear Gaussian state-space models where sequential approximate inference results in the factorization of a data matrix into a dictionary and time-varying coefficients with potentially nonlinear Markovian dependencies. The assumed Markovian structure on the coefficients enables us to encode temporal dependencies into a low-dimensional feature space. The proposed inference method is solely based on an approximate extended Kalman filtering scheme, which makes the resulting method particularly efficient.
 
@@ -26,7 +26,7 @@ This talk introduces a probabilistic sequential matrix factorization method for 
 ## Peter Challenor
 **University of Exeter, UK**
 
-*Inference for computer models*
+*Inference for computer models* <a href="/pdf/challenor.pdf">Slides</a>
 
 In parallel with data based modelling the use of ‘process’ based modelling has increased over recent years. This has been driven by the rise in computer power and numerical analysis techniques to allow the solution of such models. Applications abound from engineering through climate to healthcare. Although some of these models are fast to run, I will concentrate on those that are slow, meaning that any Monte Carlo based methods are implausible. To get around these problems we use surrogate models or emulators. Building such models is not trivial, involving issues in design and estimation. Once we have a validated emulator, we can address problems in inference. In particular, I will look at sensitivity and uncertainty analysis. The real inference problems occur when we want to use real world data to ‘calibrate’ the model by running it in inverse model. The problem here is the problem of model ‘discrepancy’. Because the model is a model it is never going to be the same as the real world and we need to take this into account. I’ll outline a couple of ways of doing this: the Kennedy and O’Hagan method and History Matching. Finally, I will point out some open research questions.
 
@@ -35,7 +35,7 @@ In parallel with data based modelling the use of ‘process’ based modelling h
 ## Philipp Hennig
 **Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE**
 
-*Backward and Inverse: Opportunities for Probnum in Machine Learning*
+*Backward and Inverse: Opportunities for Probnum in Machine Learning* <a href="/pdf/hennig.pdf">Slides</a>
 
 Aiming to advertise killer applications for probabilistic numerics, I will highlight two separate areas: First, in inverse problems involving simulations, ODE filters have shown (occasionally drastic) efficiency gains over classical methods by leveraging uncertainty propagation through computation. 
 
@@ -46,7 +46,7 @@ Secondly, deep learning continues to pose formidable algorithmic challenges for 
 ## Toni Karvonen
 **University of Helsinki, FI**
 
-*Why not to use the Gaussian kernel*
+*Why not to use the Gaussian kernel* <a href="/pdf/karvonen.pdf">Slides</a>
 
 In Gaussian process modelling it is common to use the Gaussian (or squared exponential) kernel as the default covariance kernel. In this talk I use numerical ill-conditioning, analyticity and super-exponential rates of convergence in the RKHS to argue that the Gaussian kernel is not robust and should not be used in Bayesian quadrature and other the interpolatory settings where the data are assumed noiseless.
 
@@ -65,7 +65,7 @@ Joint work with Martin Stahn (U. Potsdam) and T. J. Sullivan (U. Warwick).
 ## Masha Naslidnyk
 **University College London, UK**
 
-*On robust GP regression*
+*On robust GP regression* <a href="/pdf/naslidnyk.pdf">Slides</a>
 
 Kernel selection for Gaussian process regression has a defining effect on the quality of the model. Maximum likelihood estimation, the most popular approach for selecting a kernel from a parametrised family, has been shown empirically to perform worse under model misspecification compared to cross-validation; theoretical analysis has been missing. In this work, we provide theoretical and empirical evidence that, for noiseless one-dimensional Gaussian process regression with a Brownian motion kernel, cross-validation estimator is more robust to undersmoothing (meaning an insufficiently smooth kernel) than maximum likelihood estimator. Finally, I'll discuss a recent research direction on using maximum mean discrepancy for general parameter selection in conditional models.
 
@@ -74,6 +74,6 @@ Kernel selection for Gaussian process regression has a defining effect on the qu
 ## Kamran Pentland
 **University of Warwick, UK**
 
-*GParareal: a time-parallel ODE solver using Gaussian process emulation*
+*GParareal: a time-parallel ODE solver using Gaussian process emulation* <a href="/pdf/pentland.pdf">Slides</a>
 
 Sequential numerical methods for integrating initial value problems (IVPs) can be prohibitively expensive when high numerical accuracy is required over the entire interval of integration. One remedy is to integrate in a parallel fashion, "predicting" the solution serially using a cheap (coarse) solver and "correcting" these values using an expensive (fine) solver that runs in parallel on a number of temporal subintervals. In this work, we propose a time-parallel algorithm (GParareal) that solves IVPs by modelling the correction term, i.e. the difference between fine and coarse solutions, using a Gaussian process emulator. This approach compares favourably with the classic parareal algorithm and we demonstrate, on a number of IVPs, that GParareal can converge in fewer iterations than parareal, leading to an increase in parallel speed-up. GParareal also manages to locate solutions to certain IVPs where parareal fails and has the additional advantage of being able to use archives of legacy solutions, e.g. solutions from prior runs of the IVP for different initial conditions, to further accelerate convergence of the method - something that existing time-parallel methods do not do.
