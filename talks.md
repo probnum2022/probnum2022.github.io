@@ -9,6 +9,7 @@
 * [Philipp Hennig](#hennig) (Universität Tübingen, DE, and Max Planck Institute for Intelligent Systems, DE)
 * [Toni Karvonen](#karvonen) (University of Helsinki, FI)
 * [Han Cheng Lie](#lie) (Universität Potsdam, DE)
+* [Maren Mahsereci](#mahsereci) (Universität Tübingen, DE)
 * [Masha Naslidnyk](#naslidnyk) (University College London, UK)
 * [Kamran Pentland](#pentland) (University of Warwick, UK)
 
@@ -60,6 +61,16 @@ In Gaussian process modelling it is common to use the Gaussian (or squared expon
 The paper of Conrad et al. (*Statistics and Computing*, 2017) played an important role in establishing the idea of putting probability measures on numerical solutions of differential equations on finite-dimensional Euclidean space. We revisit some ideas from this paper, for differential equations on Banach spaces of arbitrary and possibly infinite dimension, and for time integration methods on possibly nonuniform grids. First, we present an analytical example involving a heat equation on a bounded domain, in which one can 'read off' the effect of randomisation on the Bayesian posterior on the parameter space. Second, we show that, by using a different error decomposition, one can weaken the assumption of uniform local truncation error on the underlying deterministic time integration method. This significantly improves the applicability of randomised time integration methods. If time permits, we will discuss to what extent the bounds on the mean squared error of the randomised solutions presented by Conrad et al. extend to errors of higher integrability order.
 
 Joint work with Martin Stahn (U. Potsdam) and T. J. Sullivan (U. Warwick).
+
+
+<span id="mahsereci"></span>
+## Maren Mahsereci
+**Universität Tübingen, DE**
+
+*ProbNum: Probabilistic Numerics in Python* [<a href="/pdf/mahsereci.pdf">Slides</a>]
+
+Providing quality code increases trust in methods and has become an integral part of research these days. As a small field, probabilistic numerics can benefit from such a platform. The talk motivates ProbNum, a Python library that provides probabilistic numerical solvers for differential equations, linear systems, and integration problems. It is hosted on GitHub and maintained by several members of the community. The talk highlights how users can get in touch with probabilistic numerics via ProbNum and the tutorials provided. Further, PN researchers may benefit from ProbNum as well as new projects can be build fast and robustly using existing, well-tested components. This is illustrated with some functional examples.
+
 
 <span id="naslidnyk"></span>
 ## Masha Naslidnyk
